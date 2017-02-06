@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               OpenSage
+tagline:             An engine rewrite
+url:                 http://feliwir.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Stephan Vedder
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             stephan.vedder@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/feliwir/feliwir.github.io
 
 # Gems
 gems:
