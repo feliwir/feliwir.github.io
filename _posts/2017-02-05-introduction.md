@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Introduction
+comments: true
+categories: introduction sage engine
 ---
 # Welcome on my blog! 
 In this blog I will describe the progress of writing a complete engine that
