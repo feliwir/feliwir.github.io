@@ -1,32 +1,24 @@
 # Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
+relative_permalinks: true
 
 # Setup
 title:               OpenSage
-tagline:             An engine rewrite
+tagline:             'An engine rewrite'
+description:         'A rewrite for the Strategy Aciton Game Engine (=SAGE) from EA.'
 url:                 http://feliwir.github.io
-paginate:            1
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+baseurl:             ''
+paginate:            5
 
 # About/contact
 author:
   name:              Stephan Vedder
-  url:               https://twitter.com/mdo
+  url:               https://twitter.com/StephanVedder
   email:             stephan.vedder@gmail.com
 
 # Custom vars
 version:             1.0.0
 github:
   repo:              https://github.com/feliwir/feliwir.github.io
-
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
