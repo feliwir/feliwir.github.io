@@ -10,6 +10,9 @@ url:                 http://feliwir.github.io
 baseurl:             ''
 paginate:            5
 
+# Analytics
+google_analytics: UA-91988163-1
+
 # About/contact
 author:
   name:              Stephan Vedder
